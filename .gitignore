@@ -2,3 +2,4 @@
 *
 # But not the .gitignore file itself
 !.gitignore
+!TestUpload.txt
